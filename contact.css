@@ -1,0 +1,106 @@
+.navbar {
+    display: inline-block;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(228, 123, 123)
+}
+
+.navbar ul {
+    display: inline-block;
+}
+
+.navbar h1 {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.navbar ul li {
+    display: inline-block;
+    padding-top: 35px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    margin-left: 150px;
+    font-size: 25px;
+    color: black;}
+    
+.All{
+    display: block;
+
+    width: 800px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 75px;  
+    /* background-image: url(humphrey-muleba-LOA2mTj1vhc-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed; */
+}
+.first{
+    width: 300px;
+    margin-left: 30px;
+    height: 50px;
+    padding-left: 20px;
+    margin: 20px;
+    background-color: rgb(231, 241, 189);
+    border-radius: 20px;
+}
+.third{
+    width: 300px;
+    margin-left: 30px;
+    height: 50px;
+    padding-left: 20px;
+   background-color: rgb(231, 241, 189);
+    border-radius: 20px;
+}
+
+
+ h2{
+    font-size: 50px;
+    margin-left: 600px;
+    padding: 0px;
+    color:;
+
+}
+.furth{
+    width: 700px;
+    margin-left: 30px;
+    height: 50px;
+    /* padding-left: 20px; */
+    background-color: rgb(231, 241, 189);
+    border-radius: 20px;
+}
+.five{
+    width: 300px;
+    margin-left: 30px;
+    height: 50px;
+    padding-left: 20px;
+    background-color: rgb(231, 241, 189);
+    border-radius: 20px;
+    margin-top: 20px;
+}
+button{
+    margin-left: 300px;
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+   background-color: rgb(231, 241, 189);
+}
+p{
+    font-size: 25px;
+    margin-left: 500px;
+}
+.first:hover{
+    background-color: rgb(241, 177, 190);
+}
+.fourth:hover{
+    background-color: rgb(241, 177, 190);
+}
+.third:hover{
+    background-color: rgb(241, 177, 190);
+}
+.five:hover{
+    background-color: rgb(241, 177, 190);
+}
